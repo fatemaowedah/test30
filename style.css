@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+
+html, body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+    color: black;
+}
+.navbar{
+    padding: 0.8rem;
+}
+.navbar-brand h5{
+text-decoration: underline;
+font-weight: bold;
+}
+.inlogo{
+    text-decoration: none;
+    font-size: 6.5px;
+}
+.navbar-nav li{
+    padding-right: .2rem;
+}
+.nav-item a {
+    font-size: .9rem !important;
+    text-align: center;
+    margin-left: .6rem;
+    color: black;
+}
+.nav-item a:hover{
+    color: #cc3e5d;
+    text-decoration: none;
+}
+#firstEle{
+margin-left: 2rem;
+}
+#lastEle a{
+    margin-left: 1rem;
+    border:1px solid rgb(224, 201, 71) ;
+    padding: .2rem .2rem 0rem .2rem;
+    margin-top: -.2rem;
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+#lastEle a:hover{
+    color: #cc3e5d;
+    text-decoration: none;
+}
+#inblack{
+    font-size: .5rem;
+    text-align: center;
+}
+.fa-circle{
+    margin-left: 2.1rem;
+    font-size: 3rem;
+}
+.social{
+    margin-top: 2.5rem;
+}
+.social a {
+    font-size: 1.5rem;
+    margin-left: 2.1rem;
+}
+
+.fa-youtube {
+    color: white;
+
+}
+.fa-twitter {
+    color: white;
+}
+.fa-instagram{
+    color: white;
+}
+.fa-facebook-f{
+    color: white;
+}
+
+.fa-youtube:hover,
+.fa-twitter:hover,
+.fa-instagram:hover,
+.fa-facebook-f:hover{
+    color: gray;
+}
+
+footer {
+    background-color: #cc3e5d;
+    padding-top: 2rem;
+    color: white;
+}
+hr.light {
+    border-top: 4px solid rgb(224, 201, 71);
+    width: 12%;
+    margin-left: 2.4rem;
+}
+#final2{
+    margin-left: 6.5rem;
+}
+footer ul {
+    list-style-type: none;
+}
+li ul li a{
+    margin-left: 1rem;
+}
+footer a {
+    color: white;
+    text-align: left;
+    margin-bottom: 3.5rem;
+}
+footer h5{
+    color: rgb(224, 201, 71);
+    margin-left: 2.4rem;
+}
+footer h6{
+    margin-left: 2.4rem;
+}
+footer .box {
+border: 2px solid  rgb(224, 201, 71);
+padding: .5rem;
+width: 78%;
+margin-top: 2rem;
+}
+#final{
+    margin-left: 1.7rem;
+}
+#final1{
+    margin-left: 2.3rem;
+}
+footer a:hover{
+    color: gray;
+    text-decoration: none;
+}
+
+footer p{
+    color: white;
+    margin-left: 2.4rem;
+    margin-right: 2.4rem;
+    font-size: 15px;
+}
+footer p img{
+    width: 3.5rem;
+}
+#img1{
+    margin-left: 1rem;
+}
+footer p span{
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.finaldiv{
+    margin-top: 1.5rem;
+}
+
+
